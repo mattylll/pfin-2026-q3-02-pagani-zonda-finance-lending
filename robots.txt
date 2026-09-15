@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/pfin-2026-q3-02-pagani-zonda-finance-lending/sitemap.xml
